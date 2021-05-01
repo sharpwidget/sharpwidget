@@ -29,5 +29,5 @@ I am a self taught front-end web developer, specialized in the ReactJs library. 
 ## How to reach me :
 * Website : [mounirhanafi.com](https://mounirhanafi.com)
 * Email : sharpwidget@gmail.com
-* Instagram : [@dev.split](https://instagram.com/sharpwidget)
-* Twitter : [@mounirhnf](https://twitter.com/SharpWidget)
+* Instagram : [@sharpwidget](https://instagram.com/sharpwidget)
+* Twitter : [@SharpWidget](https://twitter.com/SharpWidget)

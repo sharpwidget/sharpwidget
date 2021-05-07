@@ -1,5 +1,6 @@
 # Hello there ! I am [Mounir Hanafi](https://mounirhanafi.com) owner of SharpWidget
-I am a self taught front-end web developer, specialized in the ReactJs library. I have rich experience in designing and building modern and responsive user interfaces.
+I am a self taught front-end web developer, specialized in the ReactJs library. I have rich experience in designing and building modern and responsive user interfaces.\
+[SharpWidget](https://instagram.com/sharpwidget) is what I go by on social media, where I build and post free modern widgets using modern technologies, and share their source code using this github account.
 ## Technologies I use and master :
 ### Development
 * [React.js Library](https://reactjs.org)
